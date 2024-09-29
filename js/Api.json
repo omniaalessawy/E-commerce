@@ -1,0 +1,272 @@
+  [
+    {
+        "id": 1,
+        "title": "Men's Casual Shirt",
+        "category": "Fashion",
+        "image": "/images/Men's Casual Shirt.webp",
+        "old_price": 50,
+        "new_price": 35,
+        "rating": 4.5
+    },
+    {
+        "id": 2,
+        "title": "Women's Summer Dress",
+        "category": "Fashion",
+        "image": "/images/Women's Summer Dress.jpeg",
+        "old_price": 70,
+        "new_price": 50,
+        "rating": 4.8
+    },
+    {
+        "id": 3,
+        "title": "Nike Running Shoes",
+        "category": "Fashion",
+        "image": "/images/Nike Running Shoes.jpeg",
+        "old_price": 120,
+        "new_price": 90,
+        "rating": 4.7
+    },
+    {
+        "id": 4,
+        "title": "Foundation Makeup",
+        "category": "Makeup",
+        "image": "/images/Foundation Makeup.webp",
+        "old_price": 40,
+        "new_price": 30,
+        "rating": 4.3
+    },
+    {
+        "id": 5,
+        "title": "Lipstick - Red",
+        "category": "Makeup",
+        "image": "/images/Lipstick - Red.webp",
+        "old_price": 20,
+        "new_price": 15,
+        "rating": 4.6
+    },
+    {
+        "id": 6,
+        "title": "Eyeshadow Palette",
+        "category": "Makeup",
+        "image": "/images/Eyeshadow Palette.jpeg",
+        "old_price": 35,
+        "new_price": 25,
+        "rating": 4.8
+    },
+    {
+        "id": 7,
+        "title": "Chanel No. 5 Perfume",
+        "category": "Perfume",
+        "image": "/images/Chanel No. 5 Perfume.webp",
+        "old_price": 150,
+        "new_price": 120,
+        "rating": 4.9
+    },
+    {
+        "id": 8,
+        "title": "Gucci Guilty Perfume",
+        "category": "Perfume",
+        "image": "/images/Gucci Guilty Perfume.jpg",
+        "old_price": 180,
+        "new_price": 140,
+        "rating": 4.7
+    },
+    {
+        "id": 9,
+        "title": "Dior Sauvage Perfume",
+        "category": "Perfume",
+        "image": "/images/Dior Sauvage Perfume.jpeg",
+        "old_price": 170,
+        "new_price": 130,
+        "rating": 4.9
+    },
+    {
+        "id": 10,
+        "title": "Organic Avocados",
+        "category": "Supermarket",
+        "image": "/images/Organic Avocados.webp",
+        "old_price": 10,
+        "new_price": 7,
+        "rating": 4.8
+    },
+    {
+        "id": 11,
+        "title": "Whole Wheat Bread",
+        "category": "Supermarket",
+        "image": "/images/Whole Wheat Bread.jpeg",
+        "old_price": 5,
+        "new_price": 3,
+        "rating": 4.5
+    },
+    {
+        "id": 12,
+        "title": "Almond Milk",
+        "category": "Supermarket",
+        "image": "/images/Almond Milk.webp",
+        "old_price": 8,
+        "new_price": 6,
+        "rating": 4.6
+    },
+    {
+        "id": 13,
+        "title": "The Great Gatsby",
+        "category": "Books",
+        "image": "/images/The Great Gatsby.jpeg",
+        "old_price": 15,
+        "new_price": 10,
+        "rating": 4.9
+    },
+    {
+        "id": 14,
+        "title": "To Kill a Mockingbird",
+        "category": "Books",
+        "image": "/images/To Kill a Mockingbird.webp",
+        "old_price": 18,
+        "new_price": 12,
+        "rating": 4.8
+    },
+    {
+        "id": 15,
+        "title": "1984 by George Orwell",
+        "category": "Books",
+        "image": "/images/1984 by George Orwell.jpeg",
+        "old_price": 20,
+        "new_price": 15,
+        "rating": 4.7
+    },
+    {
+        "id": 16,
+        "title": "Dog Food - Chicken Flavor",
+        "category": "Pet Care Products",
+        "image": "/images/Dog Food - Chicken Flavor.jpeg",
+        "old_price": 30,
+        "new_price": 25,
+        "rating": 4.2
+    },
+    {
+        "id": 17,
+        "title": "Cat Litter",
+        "category": "Pet Care Products",
+        "image": "/images/Cat Litter.jpeg",
+        "old_price": 25,
+        "new_price": 20,
+        "rating": 4.3
+    },
+    {
+        "id": 18,
+        "title": "Bird Seed Mix",
+        "category": "Pet Care Products",
+        "image": "/images/Bird Seed Mix.webp",
+        "old_price": 15,
+        "new_price": 12,
+        "rating": 4.4
+    },
+    {
+        "id": 19,
+        "title": "Women's Winter Coat",
+        "category": "Fashion",
+        "image": " /images/Women's Winter Coat.webp",
+        "old_price": 200,
+        "new_price": 160,
+        "rating": 4.8
+    },
+    {
+        "id": 20,
+        "title": "Men's Leather Jacket",
+        "category": "Fashion",
+        "image": "/images/Men's Leather Jacket.jpeg",
+        "old_price": 250,
+        "new_price": 200,
+        "rating": 4.9
+    },
+    {
+        "id": 21,
+        "title": "Sneakers - Adidas",
+        "category": "Fashion",
+        "image": "/images/Sneakers - Adidas.webp",
+        "old_price": 100,
+        "new_price": 80,
+        "rating": 4.7
+    },
+    {
+        "id": 22,
+        "title": "Blender - High Speed",
+        "category": "Supermarket",
+        "image": "/images/Blender - High Speed.webp",
+        "old_price": 80,
+        "new_price": 60,
+        "rating": 4.6
+    },
+    {
+        "id": 23,
+        "title": "Organic Bananas",
+        "category": "Supermarket",
+        "image": "/images/Organic Bananas.jpeg",
+        "old_price": 5,
+        "new_price": 3,
+        "rating": 4.9
+    },
+    {
+        "id": 24,
+        "title": "Baby Diapers - Size 4",
+        "category": "Baby Care Products",
+        "image": "/images/Baby Diapers - Size.webp",
+        "old_price": 50,
+        "new_price": 40,
+        "rating": 4.7
+    },
+    {
+        "id": 25,
+        "title": "Baby Lotion - Sensitive Skin",
+        "category": "Baby Care Products",
+        "image": "/images/Baby Lotion.jpeg",
+        "old_price": 20,
+        "new_price": 15,
+        "rating": 4.7
+    },
+    {
+        "id": 26,
+        "title": "Baby Wipes - Aloe Vera",
+        "category": "Baby Care Products",
+        "image": "/images/Baby Wipes.jpeg",
+        "old_price": 15,
+        "new_price": 10,
+        "rating": 4.5
+    },
+    {
+        "id": 27,
+        "title": "The Catcher in the Rye",
+        "category": "Books",
+        "image": "/images/The Catcher in the Rye.webp",
+        "old_price": 18,
+        "new_price": 13,
+        "rating": 4.6
+    },
+    {
+        "id": 28,
+        "title": "The Hobbit",
+        "category": "Books",
+        "image": "/images/The Hobbit.jpeg",
+        "old_price": 22,
+        "new_price": 17,
+        "rating": 4.9
+    },
+    {
+        "id": 29,
+        "title": "Aquarium Fish Food",
+        "category": "Pet Care Products",
+        "image": "/images/Aquarium Fish Food.jpeg",
+        "old_price": 12,
+        "new_price": 9,
+        "rating": 4.4
+    },
+    {
+        "id": 30,
+        "title": "Dog Chew Toys",
+        "category": "Pet Care Products",
+        "image": "/images/Dog Chew Toys.webp",
+        "old_price": 10,
+        "new_price": 7,
+        "rating": 4.5
+    }
+]

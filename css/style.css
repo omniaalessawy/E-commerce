@@ -1,0 +1,211 @@
+ /* start style navbar */
+.bg-gradient {
+  background: linear-gradient(135deg, #071439, #1e90ff);
+}
+
+.navbar {
+  padding: 10px;
+  position: relative;
+  z-index: 10;
+}
+
+.navbar-nav .nav-link {
+  color: #fff;
+  margin-right: 20px;
+  transition: color 0.1s ease, transform 0.3s ease;
+}
+
+.navbar-nav .nav-link:hover {
+  transform: translateY(-11px);
+}
+
+.btn-outline-light {
+  border: 6px solid #ffffff;
+  color: #ffffff;
+  background-color: transparent;
+  padding: 0.5rem 1rem;
+  font-weight: bold;
+  transition: background-color 0.3s ease, color 0.3s ease, transform 0.3s ease;
+}
+
+.btn-outline-light:hover {
+  background-color: #36a852;
+  color: #e5e8ec;
+}
+
+.text-center h3 {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin: 0;
+  color: #fff;
+}
+
+.text-white {
+  color: #fff;
+}
+/* end style navbar */
+
+/* /////////////////////////////////////////////////////////////////////////////////////////////////////////// */
+
+/* start style header */
+.all-header {
+  background: linear-gradient(90deg, #ffffff, #ece9e3); 
+
+  padding: 20px 0;
+  color: rgb(102, 132, 166); /* لون النص */
+ 
+}
+
+.welcome-title {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3); /* تأثير ظل للنص */
+}
+
+.icon {
+  margin-left: 10px;
+  color: rgb(58, 58, 154); /* لون مميز للأيقونات */
+  transition: transform 0.3s; /* تأثير التحول عند المرور */
+}
+
+.icon:hover {
+  transform: scale(1.1); /* تكبير الأيقونات عند المرور */
+}
+
+.carousel-caption {
+  background: rgba(255, 255, 255, 0.7); /* خلفية بيضاء مع شفافية */
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.shop-now {
+  font-weight: bold;
+  color: rgb(7, 8, 8); /* لون النص عند الضغط */
+  transition: color 0.3s; /* تأثير تغيير اللون */
+}
+
+.shop-now:hover {
+  color: #2ba257; /* تغيير لون النص عند المرور */
+}
+
+.countdown {
+  font-size: 1.5rem;
+  color: #000000 ; /* لون نص العداد */
+}
+
+.promo-title {
+  font-size: 2rem;
+  margin-bottom: 10px;
+  color: #ffffff; /* لون عنوان الفيديو */
+}
+
+.promo-video-element {
+  border: 2px solid #fdfdfd; /* إطار حول الفيديو */
+  border-radius: 5px;
+}
+
+.pointing-hand {
+  font-size: 2rem;
+  color: #000000; /* لون اليد الهابطة */
+}
+
+.time-box {
+  font-weight: bold;
+  margin: 0 5px;
+  color:#ce1a1a ; /* لون نص العداد */
+}
+
+.animated-bell {
+  animation: shake 0.2s infinite; /* إضافة تأثير هز للجرس */
+}
+
+@keyframes shake {
+  0% { transform: translate(0); }
+  25% { transform: translate(-3px); }
+  50% { transform: translate(3px); }
+  75% { transform: translate(-3px); }
+  100% { transform: translate(0); }
+}
+
+.sale-title {
+  font-size: 4rem; /* حجم الخط كبير */
+  font-family: 'Cursive', sans-serif; /* خط مزخرف */
+  color: #108a3d; /* لون النص - أحمر فاتح */
+  margin: 10px 0; /* مسافة حول النص */
+}
+
+.happy-icon {
+  color: #ffc107; /* لون أيقونة السعادة */
+  margin-left: 10px; /* مسافة بين النص والأيقونة */
+}
+
+.discount-icon {
+  color: #f44336; /* لون أيقونة الخصم */
+  margin-left: 10px; /* مسافة بين النص والأيقونة */
+}
+
+.all-header {
+  padding-top: 110px;  
+}
+
+
+
+
+/* end style header */
+
+/* ////////////////////////////////////////////////////////////////////////////////////// */
+
+
+/* style allhome */
+/* start style through line */
+.strikethrough {
+  text-decoration: line-through;
+  color: red;
+}
+/*  end style through line */
+ 
+/*  start box shadow products */
+.shadow-box {
+  box-shadow: 6px 6px 6px 6px rgba(0, 0, 0, 0.2); /* الظل */
+  border-radius: 1px; /* زوايا دائرية */
+  transition: transform 0.1s; /* تأثير الانتقال عند التحويم */
+  padding: 10px; /* مسافة داخلية */
+  margin: 10px; /* مسافة بين كل div */
+}
+/*  end box shadow products */
+.shadow-box:hover {
+  transform: scale(1.05); 
+}
+/* end style allhome */
+
+/* ////////////////////////////////////////////////////////////// */
+
+
+/* start style allcart */
+.cart-title {
+  padding-top: 100px;  
+}
+/* end style allcart */
+
+
+
+ /* خلفية القسم الذي يحتوي على المنتجات */
+.page-background {
+  background: linear-gradient(90deg, #ffffff, #ece9e3); 
+  padding: 20px;
+  min-height: 100vh;
+}
+
+/* الكارت الخاص بالمنتج */
+.product-card {
+  background-color: white; /* خلفية بيضاء للمنتج */
+  border-radius: 10px; /* زوايا دائرية */
+  padding: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* ظل خفيف للكارت */
+  transition: transform 0.3s; /* تأثير عند التمرير */
+}
+
+.product-card:hover {
+  transform: scale(1.05); /* تكبير الكارت عند المرور */
+}
+
